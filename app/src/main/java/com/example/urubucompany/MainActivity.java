@@ -15,8 +15,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
-    public void sortearNumero(android.view.View view) {
-        TextView texto = findViewById(R.id.textoResultado);
-        texto.setText("5");
-    }
+
 }
